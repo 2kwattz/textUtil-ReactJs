@@ -35,4 +35,4 @@ export default function Navbar(props){
     )
 }
 
-Navbar.prototypes = {title: PropTypes.string};
+Navbar.prototypes = {title: propTypes.string};
